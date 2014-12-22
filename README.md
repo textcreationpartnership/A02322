@@ -36,7 +36,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Nevv epistles of Mounsieur de Balzac. Translated out of French into English, by Sr. Richard Baker Kn
+New EPISTLES BY Mounseur du Balzack.Translated out of French, into English by Sr Rich: Baker Kt.LONDImprimator Tho: Wykes.Septem. 6. 1637.
+1. TO THE HONOVRABLE The Lord of Newburge; one of his Majesties most honourable Privie Counsell, and Chancelour of the Dutchy of Lancaster.
+
 **Types of content**
 
   * There are 256 **verse** lines!
